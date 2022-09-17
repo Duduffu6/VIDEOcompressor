@@ -10,12 +10,12 @@
   
 `Main branch` - For personal use
 <p align="left">
-<a href="https://github.com/vasusen-code/VIDEOconvertor/tree/main"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/Duduffu6/VIDEOconvertor/tree/main"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
   
 `Public branch` - For your channel
 <p align="left">
-<a href="https://github.com/vasusen-code/VIDEOconvertor/tree/public"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/Duduffu6/VIDEOconvertor/tree/public"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
 
 `Telegran Channel` - DroneBots
@@ -64,7 +64,7 @@ AUTH_USERS COMMANDS:
   
 Deploy your own bot on `heroku`
 
-`Warning` - There are two different branches available, go to [main](https://github.com/vasusen-code/VIDEOconvertor/tree/main) branch if you need bot for your `personal` needs.
+`Warning` - There are two different branches available, go to [main](https://github.com/Duduffu6/VIDEOconvertor/tree/main) branch if you need bot for your `personal` needs.
   
 `Fork and Click on Deploy in your fork`
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="250""/></a></p>
